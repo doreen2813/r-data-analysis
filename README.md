@@ -1,4 +1,16 @@
-# R Data Analysis
+## Project 3: Daily Sales Visualization
+
+**Objective:** Visualize daily sales using R.
+
+**Skills demonstrated:**
+- Creating vectors and data frames
+- Displaying data
+- Creating bar charts with `barplot()`
+- Comparing sales across days
+
+**Key findings:**
+- Highest sales: Thursday (1800)
+- Lowest sales: Wednesday (900)# R Data Analysis
 
 ## About Me
 I am learning R programming, statistics, and data analysis.
