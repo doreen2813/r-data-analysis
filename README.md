@@ -1,4 +1,22 @@
-## Project 3: Daily Sales Visualization
+# Hi, I'm Doreen 👋
+
+## About Me
+I have a background in Applied Statistics with IT and an interest in data analysis, statistics, and data visualization.
+
+## Skills I'm Developing
+- R programming
+- Data cleaning and analysis
+- Descriptive statistics
+- Data visualization
+- Excel for data analysis
+
+## My Projects
+- [R Data Analysis Projects](https://github.com/YOUR-USERNAME/r-data-analysis)
+
+## Current Learning Goals
+- Improve my R programming skills
+- Analyze real-world datasets
+- Build a portfolio of data analysis projects## Project 3: Daily Sales Visualization
 
 **Objective:** Visualize daily sales using R.
 
