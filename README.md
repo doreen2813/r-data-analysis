@@ -1,4 +1,18 @@
-# R Data Analysis Portfolio
+## Project 2: Student Performance Analysis
+
+**Objective:** Use R to summarize and visualize sample student scores.
+
+**Skills demonstrated:**
+- Data creation using `data.frame()`
+- Descriptive statistics using `mean()` and `max()`
+- Identifying minimum and maximum scores
+- Data visualization using `barplot()`
+
+**Project files:**
+- [Student Performance R Script](student-performance.R)
+- [Student Project Report](student-reports/README.md)
+
+**Data:** Fictional student scores created for practice.# R Data Analysis Portfolio
 
 Welcome to my data analysis portfolio. I use R to explore data, create visualizations, and develop practical statistical analysis skills.
 
