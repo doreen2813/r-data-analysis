@@ -16,3 +16,6 @@ Analyze sample student scores using R.
 
 ## Data
 This project uses fictional student data for practice.
+## Student Performance Chart
+
+![Student Performance Chart](student-performance-chart.png)
