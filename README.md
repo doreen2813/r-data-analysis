@@ -94,3 +94,28 @@ My first R project uses sales data to calculate:
 ## Goals
 To develop practical data analysis skills and build a professional portfolio.# r-data-analysis
 My R programming and data analysis learning projects.
+## Employee Data Analysis Project
+
+### Project Overview
+This project demonstrates the use of R programming
+for analysing employee data.
+
+### Objectives
+- Analyse employee information.
+- Compare employee salaries across departments.
+- Explore employee experience.
+- Present findings using data visualisations.
+
+### Tools Used
+- R Programming
+- RStudio
+- dplyr
+- ggplot2
+- GitHub
+
+### Skills Demonstrated
+- Data cleaning
+- Data manipulation
+- Exploratory data analysis
+- Data visualisation
+- Reporting and documentation
