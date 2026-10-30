@@ -49,3 +49,30 @@ cat("Customers retained:", retained_customers, "\n")
 cat("Customer churn rate:", churn_rate, "%\n")
 
 cat("Customer retention rate:", retention_rate, "%\n")
+# CHURN ANALYSIS BY CUSTOMER ACTIVITY
+
+# Calculate churn by activity status
+
+activity_churn <- aggregate(
+  Churn ~ ActiveMember,
+  data = bank_customers,
+  FUN = mean
+)
+
+# Convert churn into percentages
+
+activity_churn$Churn_Rate <- activity_churn$Churn * 100
+
+# Display results
+
+print(activity_churn)
+
+# Add customer activity labels
+
+activity_churn$Customer_Status <- ifelse(
+  activity_churn$ActiveMember == 1,
+  "Active Customers",
+  "Inactive Customers"
+)
+
+print(activity_churn)
