@@ -85,3 +85,9 @@ ggsave(
   height = 6,
   dpi = 300
 )
+## Customer Satisfaction Visualization
+
+The chart below shows average customer satisfaction
+ratings across different departments.
+
+![Customer Satisfaction Chart](customer_satisfaction_chart.png)
